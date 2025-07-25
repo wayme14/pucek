@@ -92,6 +92,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/in
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be43042758d8/36f75de0a5b543da8d17c46db9d44178.jpg" group-title="INDONESIA",TransTV HD
+https://video.detik.com/transtv/smil:transtv.smil/index.m3u8
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_w458737197_b744100_sleng.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
@@ -106,7 +107,8 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="Trans7.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_110.png" group-title="INDONESIA",Trans7 HD
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w127267210_b744100_sleng.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/index.m3u8
+https://video.detik.com/trans7/smil:trans7.smil/chunklist_w37916269_b744100_sleng.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -314,3 +316,195 @@ https://tvstreamcast.com/indonesiana.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="INDONESIA",Garuda TV
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://hgmtv.com:19360/garudatvlivestreaming/720p.m3u8
+
+<============================================================ Ilmu Pengetahuan & Dokumenter ============================================>
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=5709bc59805c4f23b000306efea48438:1772cf06c2f5dd3980a3245cd31fd356
+#EXTINF:-1 tvg-id="BBCEarth.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/018/50018-SNAPSHOT-l.png" group-title="Ilmu Pengetahuan & Dokumenter",BBC Earth
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7efd32eb4765465c8a19aba6987770c8:733e8d3f4fb8f7ae021168d92f922645
+#EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/1400/57409e50258033.58cb840c2bbbb.jpg" group-title="Ilmu Pengetahuan & Dokumenter",Outdoor Channel
+https://d2tjypxxy769fn.cloudfront.net/out/v1/c169ca1dcbe249c5bf233aabc3db4a4f/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bf7ec2974fa14a248e338280a6e64cb8:7e81ae9282d08881e304aa527a1d7e72
+#EXTINF:-1 tvg-id="History.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/022/50022-SNAPSHOT-l.png" group-title="Ilmu Pengetahuan & Dokumenter",History HD
+https://atemecdnbalancer-voe.sysln.id/live/eds/HistoryHD/mpd/HistoryHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d3d70298a8f442f9dee7c11a47c3edf:ff7a89f008a62664e5ebd821187296d1
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="Ilmu Pengetahuan & Dokumenter",HGTV 
+https://atemecdnbalancer-voe.sysln.id/live/eds/HGTVHD/mpd/HGTVHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe0d35dd7f2045e58bfdfeea879a8ae9:6a61e84d6c9147aa68c06d68f1d7b218
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="AnimalPlanet" tvg-logo="https://e7.pngegg.com/pngimages/694/46/png-clipart-animal-planet-logo-icons-logos-emojis-iconic-brands.png" group-title="Ilmu Pengetahuan & Dokumenter",Animal Planet
+https://atemecdnbalancer-voe.sysln.id/live/eds/AnimalPlanetHD/mpd/AnimalPlanetHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=00cff33589a6468eb98e4db7aad46ca0:53bb2de4f3a4ed84661e4fc527a1fc09
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-id="DiscoveryChannel" tvg-logo="https://w7.pngwing.com/pngs/482/735/png-transparent-discovery-channel-television-channel-logo-television-show-others-television-globe-logo.png" group-title="Ilmu Pengetahuan & Dokumenter",Discovery Channel 
+https://atemecdnbalancer-voe.sysln.id/live/eds/DiscoveryHD/mpd/DiscoveryHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=27c8a08eabcd4bbc88eda3690cbf6aaf:bb078e32f6df14ca97bff5b8aee8caf5
+#EXTINF:-1 tvg-id="DiscoveryAsia" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-BW.png" group-title="Ilmu Pengetahuan & Dokumenter",Discovery Asia
+https://atemeshield1-voe.sysln.id/live/eds/DiscoveryAsiaHD/mpd/DiscoveryAsiaHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=62fae935e91c4e8d9e835a294ea81909:328cfed51cba1bfa41f1bda219ceeff8
+#EXTINF:-1 tvg-id="DMAX" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1200px-DMAX_-_Logo_2016.svg.png" group-title="Ilmu Pengetahuan & Dokumenter",DMAX TV 
+https://atemecdnbalancer-voe.sysln.id/live/eds/DMAXHD/mpd/DMAXHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b878569bb12450aa445e43b705109be:33183c9de39dafd7c9310081f97b4825
+#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="Ilmu Pengetahuan & Dokumenter",Love Nature
+https://atemecdnbalancer-voe.sysln.id/live/eds/LoveNatureHD/mpd/LoveNatureHD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c4190749d6f4b51bde2df71715e843b:9dfc9803c0fdbb1cd6df2188a6f29064
+#EXTINF:-1 tvg-id="LoveNature" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/024/50024-SNAPSHOT-l.png" group-title="Ilmu Pengetahuan & Dokumenter",Love Nature
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/15500e8f0dc44058ba0431d39a8fed57/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=87ca873142174f2bbdcfadd878422c77:bb51816f7407f68830dcdc215416f385
+#EXTINF:-1 tvg-id="GlobalTrekker.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/824/49824-SNAPSHOT-l.png" group-title="Ilmu Pengetahuan & Dokumenter",Global Trekker
+https://atemecdnbalancer-voe.sysln.id/live/eds/GlobalTrekkerHD/mpd/GlobalTrekkerHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=6823c964c02441ddb7a86545f43105b9:239a8749f4ed765966b163751b1619c3
+#EXTINF:-1 group-title="Ilmu Pengetahuan & Dokumenter" tvg-id="CrimeInvestigation.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/014/50014-SNAPSHOT-l.png",Crime Investigation
+https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mpd/CrimeInvestigationHD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce73b28200934af786104ce175d0dc45:b3a7b83221ed0d8fe18b8fcf92b5861a
+#EXTINF:-1 group-title="Ilmu Pengetahuan & Dokumenter" tvg-id="CrimeInvestigation.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/014/50014-SNAPSHOT-l.png",Crime Investigation
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/384f26c1c3b74ce09fa60bed24719b79/index.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab50469be8b740c699c6b2e2ce697447:94da89d6aefba50b779bf7aa2458a192
+#EXTINF:-1 group-title="Ilmu Pengetahuan & Dokumenter" tvg-id="CGTNDocumentary" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/bce8fc0f/7f20_r32.jpg",CGTN Documentary
+https://atemecdnbalancer-voe.sysln.id/live/eds/CGTNDocumentaryHD/mpd/CGTNDocumentaryHD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://www.dens.tv/images/channel-logo/1.jpg" group-title="Ilmu Pengetahuan & Dokumenter",Dens Learning & Knowledge
+#EXTVLCOPT:http-referrer=https://delta.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
+
+<==================================================== SPORTS ====================================================>
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+#EXTINF:-1 tvg-id= "SPOTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="OLAHRAGA",SpoTV
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+#EXTINF:-1 tvg-id="SPOTV2.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="OLAHRAGA",SpoTV 2
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+
+#EXTINF:-1 tvg-id="FightSports" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg" group-title="OLAHRAGA",Fight Sports
+#EXTVLCOPT:http-referrer=http://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h05/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FIGHT_SPORTS_HD
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WhTcCyi.jpeg" group-title="OLAHRAGA", MOTORVISION+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
+#EXTVLCOPT:http-referrer=http://dens.tv
+https://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&userid=lite&chname=Motorvision%2B
+
+#EXTVLCOPT:http-referrer=https://www.firstmedia.com
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
+#EXTINF:-1 tvg-id="EUROSPORT (HD).sg" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" group-title="OLAHRAGA" tvg-logo="https://w7.pngwing.com/pngs/1003/693/png-transparent-eurosport-2-television-channel-logo-live-stream-miscellaneous-television-blue.png",Eurosport Asia
+https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4035323a7fe64767ab8f3345ed9b93be:67377b8d429603f8bf30c161bda269e5
+#EXTINF:-1 tvg-id="MNCSports4.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="OLAHRAGA",Soccer Channel
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
+#EXTINF:-1 tvg-id="MNCSports.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png" group-title="OLAHRAGA",Sportstars ᴴᴰ
+https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+https://fta2-cdn-flr.visionplus.id/out/v1/89a6e4261cd7470f83e5869e90440cff/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#EXTINF:-1 tvg-id="MNCSports2.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png" group-title="OLAHRAGA",Sportstars 2 ᴴᴰ
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mastertv.tech/mastertv/topxxxxxxxxxx.php
+#EXTINF:-1 tvg-id="MNCSports3.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" group-title="OLAHRAGA",Sportstars 3 ᴴᴰ
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b576e5f5f1bc4cbaa866e5b0face5a30:3377be6c3b5f688ebed687312c9b9d95
+#EXTINF:-1 tvg-id="MNCSports4.id"  tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" group-title="OLAHRAGA", SPORTSTARS 4 ᴴᴰ
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2fcc58ccec8c45e9aa094fb980eb642d/index.mpd
