@@ -7,7 +7,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml"
 <============================================================== INDONESIA ==================================================>
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:network-caching=1000
 #EXTVLCOPT--http-reconnect=true
