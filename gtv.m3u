@@ -1,9 +1,0 @@
-#EXTM3U
-
-
-#EXTINF:-1 tvg-id="tvkita" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png" group-title="VISTAD",GTV
-#EXTVLCOPT:http-referer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJhbGciOiJFUzI1NiIsImtpZCI6ImMxODE5OTNjLWY4NTItNDQyZC05NjViLWEyYjczNThkYjk2OSIsInR5cCI6IkpXVCJ9.eyJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsImV4cCI6MTc4NTg1MjUxMSwiaWF0IjoxNzg1ODUxOTExLCJpc3MiOiJ2aXNpb25wbHVzIiwianRpIjoiNzJkMGRmNjctMDI4MS00ODllLTg2MGEtYmU2NTcyOTljYjcxIiwicG9saWN5Ijp7IndpZGV2aW5lIjp7ImNhbl9wZXJzaXN0Ijp0cnVlLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwfX0sInN1YiI6IjAwMDAwMDAwMDAwMDAwMDAwMDAzIiwic3Vic2NyaWJlciI6ImFub255bW91cyIsInZlciI6MX0.HFzk9PM1jdsIRE54-u74VrxI7obtIaPFusGTvOkH8hXp5Z1nMWXlzYXHC67bNTsQM1Wn0O6YlIk88dYVc1ZYXw
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8
