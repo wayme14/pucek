@@ -19,6 +19,6 @@ https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|User-Agent=Mozilla
 #EXTINF:-1 tvg-id="sctv" tvg-name="Trans 7" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplustv.id/
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de6a75c540624836b7123f05b7b628b4:551a734e9de983fefdc258aa6baf81e2
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
