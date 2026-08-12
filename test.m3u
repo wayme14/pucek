@@ -16,9 +16,9 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/in
 #EXTVLCOPT:http-referrer=https://www.detik.com/
 https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/Indosiar.m3u8
 
-#EXTINF:-1 tvg-id="sctv" tvg-name="Trans 7" group-title="NASIONAL",SCTV
+#EXTINF:-1 tvg-id="sctv" tvg-name="Trans 7" group-title="NASIONAL",GTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=de6a75c540624836b7123f05b7b628b4:551a734e9de983fefdc258aa6baf81e2
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9e9aba7068ca4c7f8a73381bef5f8742/index.mpd
+#KODIPROP:inputstream.adaptive.license_key=44939fb2fb3d40b8aa8f4e6c19048570:76d792be938e9758c5779623c6f6e70a
+https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
