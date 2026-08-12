@@ -11,10 +11,10 @@
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/997ce8767b604fae9fce05379b3b8b3a/index.mpd
 
 
-#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans 7" group-title="NASIONAL",Trans 7
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans 7" group-title="NASIONAL",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.detik.com/
-https://video.detik.com/trans7/smil:trans7.smil/playlist.m3u8|User-Agent=Mozilla/5.0&Referer=https://www.detik.com/
+https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/Indosiar.m3u8
 
 #EXTINF:-1 tvg-id="sctv" tvg-name="Trans 7" group-title="NASIONAL",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
