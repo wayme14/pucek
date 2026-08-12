@@ -20,5 +20,6 @@ https://github.com/Bluestraveller13/super-duper-spork/raw/refs/heads/main/Indosi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.pssh=AAAAOHBzc2gAAAAA7e+LqXnWSs6jyCfc1R0h7QAAABgSEESTn7L7PUC4qo9ObBkEhXBI49yVmwY=
 #KODIPROP:inputstream.adaptive.license_key=44939fb2fb3d40b8aa8f4e6c19048570:76d792be938e9758c5779623c6f6e70a
 https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
