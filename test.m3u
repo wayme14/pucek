@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="NASIONAL", SCTV
+#EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png" group-title="NASIONAL", SCTV
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:153.0) Gecko/20100101 Firefox/153.0
 #KODIPROP:inputstream.adaptive.license_type=widevine
