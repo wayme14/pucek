@@ -1,14 +1,7 @@
 #EXTM3U
+#EXTM3U x-tvg-url="https://www.dens.tv/sitemap.xml"
 
-
-
-
-
-
-
-#EXTM3U url-tvg="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/astro.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/unifitv.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/rtmklik.xml;https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/singapore.xml"
-<============================================================== INDONESIA ==================================================>
-
+===================== INDO ===================
 
 #EXTINF:-1 tvg-name="RCTI" tvg-logo="https://www.visionplus.id/images/repository/445/353445-SNAPSHOT-l.png" group-title="INDONESIA", RCTI HD
 #EXTVLCOPT:http-referer=https://www.visionplus.id/
