@@ -212,12 +212,13 @@ http://op-flashcon-digdayahd-1.dens.tv/h/h40/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/Vision/drm.license?id=5
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=005
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
-#EXTINF:-1 tvg-id="SindoNewsTV.id@SD" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png",SindoNews 1
+#EXTINF:-1 tvg-id="SindoNewsTV.id@SD" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png",SindoNews (V+)
 https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
-#EXTINF:-1 tvg-id="SindoNewsTV.id@SD" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png",SindoNews 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="SindoNewsTV.id@SD" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png",SindoNews (Max)
 https://cdnbal1.indihometv.com/atm/DASH/mncnews/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
