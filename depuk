@@ -190,6 +190,12 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h12/index.m3u8
 #EXTINF:-1 tvg-id="MetroTV.id" group-title="INDONESIA" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV
 http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
 
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rpl/drm.php?id=014
+#EXTINF:-1 tvg-id="iNews.id@SD" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-m.png",Metro TV (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/fd4360b1c12c4375848c8f085fd51d41/index.mpd
+
 #EXTVLCOPT:http-referrer=https://www.cnnindonesia.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
 #EXTINF:-1 tvg-id="" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://cdn.cnnindonesia.com/cnnid/images/logo_cnn_fav.png?v=10.15.2" group-title="INDONESIA",CNN Indonesia
