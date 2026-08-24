@@ -1,0 +1,22 @@
+#EXTM3U
+# Generated: 2026-08-24 06:54:27
+
+#EXTINF:-1 tvg-id="RCTI (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI (R+)
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1787590466~hmac=0657c4de4b44cfc10524b069cfe8baa4e5206b71df50e520c0142bb545436157
+
+#EXTINF:-1 tvg-id="MNCTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV (R+)
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1787590466~hmac=51489028fae784dd4b3d0662d9354c73d788a518592552299c30628c0248c914
+
+#EXTINF:-1 tvg-id="GTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV (R+)
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1787590466~hmac=2211e8305d6a116311598eb476b29861cbf3fb0faba738d905c282c368bd7af3
+
+#EXTINF:-1 tvg-id="iNews (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews (R+)
+#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1787590467~hmac=ea5ea03326b62e2eb1eb5d6811e25012926199ed6a4b6cbf6a47c21ce60d0ff9
