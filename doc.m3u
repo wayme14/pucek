@@ -1,15 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="uwu" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="NASIONAL",Trans 7
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=9900fad071b04979951e16f9f00b47dd:6a0e4a455bf67b942a96eef3fd7a8d90
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
-#EXTINF:-1 tvg-id="uwu" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/424/173424-LOGO-m.png" group-title="NASIONAL",GTV World
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=504a66e68b0249f497fa77de3ed89105:4aef61856f9ffbba1295b8dd47358b87
-https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/index.mpd
-
-https://github.com/amanhnb88/AdiTV/raw/refs/heads/main/streams/id.m3u
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.stream_headers=origin=https://www.visionplus.id&referer=https://www.visionplus.id/&user-agent=Vision+/11.3.7 (4.2407240952) Vision+ (Linux;Android 11) ExoPlayerLib/2.19.1
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://multidrm.core.verimatrixcloud.net/widevine?Authorization=eyJraWQiOiJjMTgxOTkzYy1mODUyLTQ0MmQtOTY1Yi1hMmI3MzU4ZGI5NjkiLCJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2ZXIiOjEsImlzcyI6InZpc2lvbnBsdXMiLCJzdWIiOiIwMDAwMDAwMDAwMDAwMDAwMDEyMSIsImlhdCI6MTc4Nzg0MTY0NywiZXhwIjoxNzg3ODQyMjQ3LCJqdGkiOiI3NTcyYWEyOS1lZDFlLTQ2YmQtODQxMi0yYWEyZjFhMjM0NjciLCJhdWQiOiJ1cm46dmVyaW1hdHJpeDptdWx0aWRybSIsInBvbGljeSI6eyJ3aWRldmluZSI6eyJsaWNlbnNlX2R1cmF0aW9uX3NlY29uZHMiOjE0NDAwLCJjYW5fcGxheSI6dHJ1ZSwiY2FuX3JlbmV3Ijp0cnVlLCJjYW5fcGVyc2lzdCI6ZmFsc2V9fSwiaXp6aUN1c3RvbWVyIjoiTU5DOjEyMjU2NDE2IiwiaXp6aURldmljZUlkIjoiYmJjZTdkMDAtNTJhZC00Y2JmLTk1YWQtNGQ2ODcwNDVhYmNkIiwiaXp6aVZJUCI6ZmFsc2V9.gufo5oadPwcb1-82Y7d17EJ6E23jsxeaYl7Hxk42KawgFA3gwwQPuDT7UpBerXSfohTe9feme56l48i3YCgYlQ
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/066/569066-LOGO-m.png" group-title="INDONESIA",Indosiar (V+)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/e930be336fed49e6b26a7554e113f7a4/index.mpd
