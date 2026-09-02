@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-09-02 03:05:16
+# Generated: 2026-09-02 10:43:02
 
 #EXTINF:-1 tvg-id="RCTI (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1788354315~hmac=afcc3c5919f657e167125405b826dfc39a67944dad324d3b937f77b7db501a35
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1788381781~hmac=d614c826d425ba5f5ecdcb3a4572a833260baaa3034c72c01fe41827f7d7d8f0
 
 #EXTINF:-1 tvg-id="MNCTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1788354316~hmac=21de5e6eafc59276f4e54dbc2e33df25ec72e1d223c6b1d37288a5761ad5fbbf
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1788381782~hmac=fd23bf4b353b34b88015545115438bbdeef21e998098be4422bfe6170553a6b0
 
 #EXTINF:-1 tvg-id="GTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788354316~hmac=d6c90a7786385b645b8a4f4653a4235e505bef67494e7021482f9f432819fe4b
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1788381782~hmac=e16acb9382b37cdb1a1205ab729fe4c4462bf9d650cbc5ef210bb6ba730e716b
 
 #EXTINF:-1 tvg-id="iNews (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788354316~hmac=6ed4edf2399c48974c8e64c901463be11f45a15329a40f6fbc03f4ef7d0b2c03
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1788381782~hmac=ccfa22393e9c52ad4502e9055c03458e855386e184485aff6f4c2b92a21fe144
