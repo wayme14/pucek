@@ -747,26 +747,26 @@ https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="MOVIES",LA | Runtime Terror
 
 # === RCTI+ SECTION ===
-# Updated: 2026-09-14 03:34:45
+# Updated: 2026-09-14 11:54:57
 
 #EXTINF:-1 tvg-id="RCTI (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789392883~hmac=94a44a8bc554b228279edd747fe7b9fb5241c128d5944b9e8fce2537b59c7413
+https://rcti-linier.rctiplus.id/rcti-sdi.m3u8?hdnts=exp=1789422896~hmac=efff328ecf39ab8b6694d7f47c321dd6b54e1dab473c38cfbc7a5c999d33a0fa
 
 #EXTINF:-1 tvg-id="MNCTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789392884~hmac=e5b03363d1d4a8989d98be277862d288993152ba12c9774c1385294f2a3e1d1a
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1789422896~hmac=a124382e378ee58579a0b8b13fbdbad470d929c78b58cfec44982417a8fa59f8
 
 #EXTINF:-1 tvg-id="GTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1789392884~hmac=cd73b6b2e27e5980d2b4beab3015f1844061cb13ecb159a9ee3ff46e40e31832
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1789422896~hmac=79397cc6d6f89bda9634b02147cb49c42b5b45fdf0cf38ce517e9d8710149495
 
 #EXTINF:-1 tvg-id="iNews (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789392884~hmac=2018d36a03c638147809562c6b88cddba4664e3e5c2d6456724f78fbfb3456ae
+https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1789422897~hmac=a0fbca90a655dcd08381d97c4f51c3d7c66d9538d894da6d9808a7cc3cd6f87c
 
 # === END RCTI+ SECTION ===
