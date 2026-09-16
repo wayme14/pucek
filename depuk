@@ -121,6 +121,12 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/0fd7b7d368bc44bc9b4dece20acc3e33/in
 #EXTVLCOPT:http-referrer=https://20.detik.com/
 https://video.detik.com/trans7/smil:trans7/playlist.m3u8
 
+#EXTINF:-1 tvg-name="Trans 7" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-m.png" group-title="INDONESIA", Trans7 (cubmu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
+https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/VFJBTlM3LW15/manifest.mpd?signature=YmYwNjBmZDliMmQwZGQ2NmVjNWM1NzUyMWM1ZWEyNWU=&time=15250126226
+
 #EXTINF:-1 tvg-id="TransTV.id@SD" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png",Trans TV (Transvision)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://ott.rocket-ott.shop/cubmu/test.php?license=1
