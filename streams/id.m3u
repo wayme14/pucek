@@ -1,12 +1,12 @@
 #EXTM3U
-# Generated: 2026-10-03 15:46:21
+# Generated: 2026-10-03 20:38:07
 
 #EXTINF:-1 tvg-id="MNCTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1791078380~hmac=f63910678a51aecb6c5cdad43b4a3480c5d2aae9aa23ff7f5e6cf77b3de98b52
+https://mnctv-linier.rctiplus.id/mnctv-sdi.m3u8?hdnts=exp=1791095887~hmac=f94d0a777085336ee4e3caa0926662e069a88e72bd8fa701373a756d672abbca
 
-#EXTINF:-1 tvg-id="iNews (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews (R+)
+#EXTINF:-1 tvg-id="GTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://inews-linier.rctiplus.id/inews-sdi.m3u8?hdnts=exp=1791078381~hmac=f75f1edac72da4a1f439c11f5881077fc2501f2f2f6928580dfa2d1144eae20f
+https://gtv-linier.rctiplus.id/gtv-sdi.m3u8?hdnts=exp=1791095887~hmac=a7c5437fdce0e1dc5fad0e32a2c47bc086a7567d5495d280114dce7e80e4a810
