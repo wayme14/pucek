@@ -97,7 +97,7 @@ https://cdnjktbpid37.cubmu.com/riutx01-22b1f3c4ac0e47a0ed0e3305661027ee/dash/U0N
 #EXTINF:-1 tvg-id="TransTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="INDONESIA",TransTV (V+)
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/7a69cfc9e135493f87ac4efd63000429/index.mpd
 
-#EXTINF:-1 tvg-name="Trans TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="INDONESIA",Trans TV HD
+#EXTINF:-1 tvg-name="Trans TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-m.png" group-title="INDONESIA",Trans TV (Transvision)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6ffb9c53af284fd590217ede1eba765e:4abf1fd26e8c45a5b6bae60cf6ffc2b9
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)&Origin=https://www.cubmu.com&Referer=https://www.cubmu.com/
