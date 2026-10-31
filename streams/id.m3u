@@ -1,22 +1,22 @@
 #EXTM3U
-# Generated: 2026-10-31 11:44:31
+# Generated: 2026-10-31 16:52:15
 
 #EXTINF:-1 tvg-id="RCTI (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1793457870-1a8258bf6130b5409059af41dbf632ba-0-417fda9b2cf829b5e3ecfa4b652c82a4
+https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1793476333-17ae3183a2e6340ff10d23fdc36b1226-0-b0dff10a48341a8222ef948b8ccc64a7
 
 #EXTINF:-1 tvg-id="MNCTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793457871-ec35f6080bd15e826bce5805bbb618e1-0-0e7e67020f179d869ec072f025a7c20a
+https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793476334-0ba07a8fc0d9de8105246983494cd34e-0-fcdd8d40dc8939addb14f455bfc6b4e4
 
 #EXTINF:-1 tvg-id="GTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1793457871-828dddbabc3bb59aa73d19d100664c26-0-558464627783e4897c884268e16221bc
+https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1793476334-340ccb72d9722f0fea0655c36bf0e1a2-0-804e756c56949ca070b8ae4cadf28045
 
 #EXTINF:-1 tvg-id="iNews (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/inews/index.m3u8?auth_key=1793457871-a2fdf9815c83807a382ab067aa5079e4-0-8c290432959cc3a3bee145eb9fc3658e
+https://proxy-b.rctiplus.id/live/mweb/inews/index.m3u8?auth_key=1793476335-b0045838a5717780fa966286250d9b1c-0-37a2747a1d9846efef120e9af5af6869
