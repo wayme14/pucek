@@ -1,22 +1,17 @@
 #EXTM3U
-# Generated: 2026-11-01 12:43:47
+# Generated: 2026-11-01 21:44:02
 
 #EXTINF:-1 tvg-id="RCTI (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-m.png",RCTI (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1793547825-004ba895170dd1e3770b179a74c92b92-0-197688963d7030393a3886dad96a23db
+https://proxy-b.rctiplus.id/live/mweb/rcti/index.m3u8?auth_key=1793580241-c25c8a19bb981dcb4108e12a4f966587-0-8aae30f32705a0444b6a1952008de0f5
 
 #EXTINF:-1 tvg-id="MNCTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793547826-4a5e7ab2f70661883f4803bcdd6c1267-0-b32461b719ef942357dddce57b38ddc2
-
-#EXTINF:-1 tvg-id="GTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-m.png",GTV (R+)
-#EXTVLCOPT:http-referrer=https://m.rctiplus.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/gtv/index.m3u8?auth_key=1793547826-06ef4f91ed0c19425f934016d6877b76-0-9dfbb0b41034fe4929f20de664428a07
+https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1793580242-d80e5c6b6b5473fa48d5c42ff483a2c0-0-0a78120d0cd59828221fdc349c789a8d
 
 #EXTINF:-1 tvg-id="iNews (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png",iNews (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/inews/index.m3u8?auth_key=1793547826-c2eea9d1ef6df2bc52023bb9d2677eac-0-9487d40213455c89a32fe35b057e8d15
+https://proxy-b.rctiplus.id/live/mweb/inews/index.m3u8?auth_key=1793580242-cda7508354d763cc507cd8d46f5d97ab-0-9b0cf79de829c6ebc2a11c458c2a7774
