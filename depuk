@@ -73,7 +73,7 @@ https://proxy-v.rctiplus.id/live/web/indosiar/index.m3u8
 #EXTVLCOPT:http-referrer=https://m.vidio.com/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-pidio-auto.shiokambing75.workers.dev/
-https://bintangstreaming.my.id/forsat23/pido.php/.mpd?id=204
+https://bintangstreaming.my.id/forsat23/podi.php/.mpd?id=204
 
 #EXTINF:-1 tvg-name="sctv" tvg-logo="https://www.visionplus.id/images/repository/062/569062-LOGO-m.png" group-title="INDONESIA",SCTV (V+)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
@@ -168,7 +168,7 @@ https://proxy-v.rctiplus.id/live/web/inews/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-m.png" group-title="INDONESIA",Kompas TV (V+)
-https://proxy-v.rctiplus.id/live/web/kompastv/index.m3u8
+https://proxy-v.rctiplus.id/live/web/kompas/index.m3u8
 
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
