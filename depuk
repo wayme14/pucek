@@ -684,11 +684,11 @@ https://run-runfl.otteravision.com/run/runfl/runfl_720.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/jrpahe-del/Logo/refs/heads/main/runtime.png" group-title="MOVIES",LA | Runtime Terror
 
 # === RCTI+ SECTION ===
-# Updated: 2026-11-19 19:59:13
+# Updated: 2026-11-20 05:52:38
 
 #EXTINF:-1 tvg-id="MNCTV (R+)" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-m.png",MNCTV (R+)
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
-https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1795129152-6aa572b6582d1b515fac878e8c31e327-0-57bb76453e7b99dc13fa24d39c265ff5
+https://proxy-b.rctiplus.id/live/mweb/mnctv/index.m3u8?auth_key=1795164757-0fa8b804582bbe8fa21b33df0ead1176-0-84ee36aac2672658b451795bea795f3f
 
 # === END RCTI+ SECTION ===
