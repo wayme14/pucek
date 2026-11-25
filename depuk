@@ -131,7 +131,9 @@ https://live.cnbcindonesia.com/trans7/smil:trans7.smil/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="MDTV.id@HD" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV (V+)
-https://proxy-v.rctiplus.id/live/web/mdtv/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=23&type=drm
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
 
 #EXTINF:-1 tvg-id="MDTV.id" group-title="INDONESIA" tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/334/320334-LOGO-m.png",MDTV (Dens)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0
@@ -152,7 +154,7 @@ https://cdnbal1.indihometv.com/atm/DASH/nusantaratv/nusantaratv-avc1_2500000=7-3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="ANTV.id tvg-url="tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png" group-title="INDONESIA",ANTV (V+)
-https://proxy-v.rctiplus.id/live/web/antv/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/antv/index.m3u8
 
 #EXTINF:-1 tvg-id="ANTV.id" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-m.png",ANTV (VDO)
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.31.6
@@ -253,7 +255,9 @@ https://op-flashcon-digdayahd-1.dens.tv/h/h207/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="Moji.id@SD" group-title="INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/070/569070-LOGO-m.png",Moji (V+)
-https://proxy-v.rctiplus.id/live/web/moji/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=19&type=drm
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/2f1c4190dcf045c9aafc447d54ef7c91/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -303,32 +307,34 @@ https://proxy-v.rctiplus.id/live/web/jtv/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="History" tvg-url="abc" tvg-logo="https://www.visionplus.id/images/repository/650/650-LOGO-m.png" group-title="Documentary",History HD
-https://proxy-v.rctiplus.id/live/web/history/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/history/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="Love Nature" tvg-url="abc" tvg-logo="https://www.visionplus.id/images/repository/682/295682-LOGO-m.png" group-title="Documentary",Love Nature
-https://proxy-v.rctiplus.id/live/web/lovenature/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/lovenature/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="Global Trekker" tvg-url="abc" tvg-logo="https://www.visionplus.id/images/repository/649/649-LOGO-m.png" group-title="Documentary",Global Trekker
-https://proxy-v.rctiplus.id/live/web/globetrekker/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/globetrekker/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="Global Trekker" tvg-url="abc" tvg-logo="https://www.visionplus.id/images/repository/671/493671-LOGO-m.png" group-title="Documentary",BBC EARTH
-https://proxy-v.rctiplus.id/live/web/bbcearth/index.m3u8
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://qtv.my.id/vplus/vplusid.mpd?url=EG_d2tjypxxy769fn&id=e930be336fed49e6b26a7554e113f7a4&ch=102&type=drm
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/4e5b2a283adf462c8b6b55b2ef059fac/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="Global Trekker" tvg-url="abc" tvg-logo="https://www.visionplus.id/images/repository/647/647-LOGO-m.png" group-title="Documentary",Outdoor Channel
-https://proxy-v.rctiplus.id/live/web/outdoor/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/outdoor/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #EXTINF:-1 tvg-id="Global Trekker" tvg-url="abc" tvg-logo="https://www.visionplus.id/images/repository/646/646-LOGO-m.png" group-title="Documentary",Crime Investigation
-https://proxy-v.rctiplus.id/live/web/crimeinvest/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/crimeinvest/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -362,7 +368,7 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/46d9cf39b9a84183b8d5022ac8f4bc41/in
 #EXTINF:-1 tvg-id="FightSports" tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="OLAHRAGA",Fight Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://proxy-v.rctiplus.id/live/web/fightsport/index.m3u8
+https://dsgtq5sngxkde.cloudfront.net/fightsports/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
